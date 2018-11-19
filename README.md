@@ -2,7 +2,7 @@
 This project creates a Deep Neural Network with 1 hidden layers (extend to 3 hidden layer) to train,test and validate against the Handwritten Digit dataset using tensorflow
 
 <b>--------------- Prerequisite -----------------</b> <br>
-Need to unzip all all .7z files. Change the path in Handwritten-digit-recognition.py. run this file <br>
+Need to unzip all .7z files. Change the path in Handwritten-digit-recognition.py. run this file <br>
 I have written simple code to understand the tensorflow for anyone which have some knowledge of python.
 
 
